@@ -1,2 +1,3 @@
 # Bokhead Pictures
 LOADING....
+<script>window.location="home.html"</script>
