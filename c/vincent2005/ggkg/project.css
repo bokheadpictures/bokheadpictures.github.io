@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+ .series{
+   display: none;
+   margin: 40px;
+   transition: 0.3s;
+   cursor: pointer;
+   
+   }
+   .button{
+  
+
+   transition: 0.3s;
+   cursor: pointer;
+   
+   }
+   .menumonster{
+     text-decoration: underline;
+     color: blue;
+     cursor: pointer;
+   }
+   header{
+     font-size: 40px;
+   }
+#mySidenav a {
+    position: absolute;
+    right: -80px;
+    transition: 0.3s;
+    padding: 20px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+/* sidebar */
+#mySidenav a:hover {
+    right: 0;
+}
+#hideMe{
+  transition: opacity 0.3s;
+  
+}
+
+#about {
+    top: 240px;
+    background-color: purple;
+}
+
+#blog {
+    top: 300px;
+    background-color: #2196F3;
+}
+
+#projects {
+    top: 360px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 200px;
+    background-color: #555
+}/* sidebar over */
+np {
+  text-indent: 0px;
+  font-size: 20px;
+  text-align:center;
+}
+
+input{
+  font-size: 60;
+}
+
+iframe{
+  
+  border-color: white;  
+  
+}
+a:visited {
+  color: black;
+  cursor: text;
+}
+a{
+  text-decoration : none;
+  color: black;
+  cursor:text;
+  
+}
+
+h1{
+  text-align: center;
+color: purple;
+  text-shadow: 0 5px 0 green;
+
+   font-size: 120px;
+  cursor: cell;
+}
+   input{
+  cursor: pointer;
+}
+  iframe:hover{
+    cursor: wait;
+  }
+  
+h5{
+  cursor: pointer;
+  color:blue;
+  text-decoration: underline;
+}
+newslink{
+  cursor: pointer;
+  color:blue;
+  text-decoration: underline;
+}
+  
+  
+  button{font-size: 100px;
+color: blue;
+border-color: blue;
+border-style: solid;
+  text-decoration: none;}
+h2 {
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 60px;
+text-align: center;
+}
+new{
+position: absolute;
+left: 800px;
+}
