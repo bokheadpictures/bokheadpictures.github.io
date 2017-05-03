@@ -22,7 +22,7 @@
      font-size: 40px;
    }
 #mySidenav a {
-    position: absolute;
+    position: fixed;
     right: -80px;
     transition: 0.3s;
     padding: 20px;
