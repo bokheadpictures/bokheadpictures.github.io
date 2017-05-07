@@ -1,4 +1,4 @@
 # Bokhead Pictures
 
 testing...
-<script>window.location="bva.html";</script>
+<script>window.location="bva";</script>
